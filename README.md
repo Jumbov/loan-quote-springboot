@@ -1,4 +1,4 @@
-# loan-quote-springboot
+# lucaweb (loan-quote + springboot application)
 
 http://localhost:8094/YourQuote.html
 
